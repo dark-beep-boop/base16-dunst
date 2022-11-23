@@ -1,3 +1,7 @@
 default:
     extension: .dunstrc
     output: themes
+
+inverted-backgrounds:
+    extension: .dunstrc
+    output: themes
